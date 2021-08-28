@@ -6,7 +6,7 @@ weight: 1
 ---
 Using Hashtagger, you will be able to maximize viral journey, by targeting specific audiences, while being able to reach other markets.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/hashtagger.png)
 
 # Objectives 
 Aiding your content to go viral by using the **right** #Hashtags, for the **right** audience.
