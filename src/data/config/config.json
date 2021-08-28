@@ -3,13 +3,13 @@
         "show_call_box": true
     },
     "logo": {
-        "mobile": "/images/logo/logo-mobile.svg",
-        "desktop": "/images/logo/logo.svg",
+        "mobile": "/images/logo/logo.png",
+        "desktop": "/images/logo/logo.png",
         "desktop_height": "36px",
         "alt": "Viral machine on streiods"
     },
     "homepage_meta_tags": {
-        "meta_description": "One stop shop for amplifing modern content.",
+        "meta_description": "One stop place for amplifing modern content.",
         "meta_og_title": "",
         "meta_og_type": "website",
         "meta_og_url": "",
