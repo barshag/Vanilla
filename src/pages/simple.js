@@ -9,7 +9,7 @@ class simple extends React.Component {
 
 
     componentDidMount(){
-        fetch('http://my-simple-api.herokuapp.com/?year=1900').then(response => {
+        fetch('https://my-simple-api.herokuapp.com/?year=1900').then(response => {
 
         console.log(response);
     
