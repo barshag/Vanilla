@@ -27,5 +27,6 @@ You are the main character of the podcast, but you can control the A.I assistant
 
 And ofcourse you can choose who might be your friend...
 
+Man/Woman...
 
 

@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # One stop place for your viral journey.
 
-We deliver the most advanced A.I models, in order to amplify your uniqueness and message to the whole world.
+We deliver the most advanced A.I models, in order to amplify your messages to the whole world.

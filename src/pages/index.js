@@ -59,6 +59,9 @@ const Home = props => {
               <div className="col-auto">
                 <Link className="button button-primary" to="/services/">View All Services</Link>
               </div>
+              <div className="col-auto">
+                <Link className="button button-primary" to="/fetcher/">Getting Started</Link>
+              </div>
             </div>
           </div>
         </div>
